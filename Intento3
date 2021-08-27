@@ -1,0 +1,7 @@
+echo "# percebe-rizado" >> README.md 
+git init 
+git agregar README.md 
+git commit -m "primer Intento"
+git branch -M main 
+git remote agregar origen https://github.com/Primo-RD/percebe-rizado.git
+ git push -u origin main
